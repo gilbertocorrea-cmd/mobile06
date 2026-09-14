@@ -1,0 +1,29 @@
+{
+  "name": "mobile06",
+  "version": "1.0.0",
+  "description": "DEMONSTRAÇÃO DE UM CONTADOR DE CLIENTES.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gilbertocorrea-cmd/mobile06.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/gilbertocorrea-cmd/mobile06/issues"
+  },
+  "homepage": "https://github.com/gilbertocorrea-cmd/mobile06#readme",
+  "dependencies": {
+    "next": "^16.3.5",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
+  }
+}

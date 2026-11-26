@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./docs/project-banner.svg" width="100%" alt="Banner Mobile06">
+</div>
+
+<div align="center">
 
 # M O B I L E　0 6　//　C L I C K　C O U N T E R
 
